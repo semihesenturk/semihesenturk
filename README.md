@@ -5,6 +5,8 @@
 - - ⚡ Fun fact: ... Coding, Camping
 - - [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/semihesenturk)](https://github.com/semihesenturk) 
 
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=https://medium.com/@semihesenturk)](https://medium.com/@semihesenturk) 
+
 
 <!--
 **semihesenturk/semihesenturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
