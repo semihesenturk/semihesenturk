@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Dogus Yayin Grubu
+- 🔭 I’m currently working on Technology Company
 - 🌱 I’m currently learning .Net || Pyhton || Go
 - 👯 I’m looking to collaborate on Open Source Projects
 - - 📫 How to reach me: ... semihesenturk@icloud.com
